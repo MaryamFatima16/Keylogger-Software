@@ -15,22 +15,22 @@
 Visualize the Keylogger-Software with the following screenshots:
 
 <p align="center">
-  <img src="screenshots/keylogger-screenshot.png" alt="Screenshot Capture" width="400"/>
+  <img src="screenshots-keylogger/keylogger-screenshot.png" alt="Screenshot Capture" width="400"/>
   <br/><i>Capturing screenshots.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/keylogger-txt.png" alt="Log File View" width="400"/>
+  <img src="screenshots-keylogger/keylogger-txt.png" alt="Log File View" width="400"/>
   <br/><i>Viewing the log file.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/running-keylogger.png" alt="Running Keylogger" width="400"/>
+  <img src="screenshots-keylogger/running-keylogger.png" alt="Running Keylogger" width="400"/>
   <br/><i>Keylogger is running.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/stopping-keylogger.png" alt="Stopping Keylogger" width="400"/>
+  <img src="screenshots-keylogger/stopping-keylogger.png" alt="Stopping Keylogger" width="400"/>
   <br/><i>Stopping the keylogger.</i>
 </p>
 
@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Maryam Fatima  
 [GitHub Profile](https://github.com/MaryamFatima16)  
 [LinkedIn Profile](https://www.linkedin.com/in/maryam-fatima03)  
-Email: [your-email@gmail.com](mailto:maryamfatima03@gmail.com)
+Email: [your-email@gmail.com](maryamfatima03@gmail.com)
