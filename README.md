@@ -81,23 +81,13 @@ Visualize the Keylogger-Software with the following screenshots:
 - **Changing Log File Location**: Modify the `log_file` path in the code.
 - **Adjusting Screenshot Directory**: Update `screenshot_dir` to your preferred directory.
 - **Modifying GUI**: Customize the GUI appearance and functionality through Tkinter settings.
+- **Customizing Mail ID**: Customize the sender and receiver mail id
 
 ## 🎯 Use Cases
 
 - **Security Monitoring**: Keep track of keystrokes and capture unauthorized activities.
 - **User Behavior Analysis**: Analyze user interactions for research purposes.
 - **Debugging & Testing**: Test and debug user inputs in applications.
-
-## 📝 Roadmap
-
-Upcoming Features:
-- Integration with cloud storage for log backups.
-- Enhanced encryption for log files and screenshots.
-- More customizable GUI options.
-
-## 💬 Feedback & Contribution
-
-Your feedback and contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests to enhance functionality.
 
 ## 🧩 License
 
