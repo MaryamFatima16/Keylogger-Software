@@ -15,23 +15,23 @@
 Visualize the Keylogger-Software with the following screenshots:
 
 <p align="center">
-  <img src="screenshots/GUI-window.png" alt="GUI Window" width="400"/>
-  <br/><i>GUI Window displaying keylogger controls.</i>
+  <img src="screenshots/keylogger-screenshot.png" alt="Screenshot Capture" width="400"/>
+  <br/><i>Capturing screenshots.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/Log-File-View.png" alt="Log File View" width="400"/>
+  <img src="screenshots/keylogger-txt.png" alt="Log File View" width="400"/>
   <br/><i>Viewing the log file.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/Email-Log.png" alt="Email Log" width="400"/>
-  <br/><i>Sending the log file via email.</i>
+  <img src="screenshots/running-keylogger.png" alt="Running Keylogger" width="400"/>
+  <br/><i>Keylogger is running.</i>
 </p>
 
 <p align="center">
-  <img src="screenshots/Screenshot-Capture.png" alt="Screenshot Capture" width="400"/>
-  <br/><i>Capturing screenshots.</i>
+  <img src="screenshots/stopping-keylogger.png" alt="Stopping Keylogger" width="400"/>
+  <br/><i>Stopping the keylogger.</i>
 </p>
 
 ## 🛠️ Installation & Setup
@@ -107,6 +107,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Maryam Fatima  
 [GitHub Profile](https://github.com/MaryamFatima16)  
-[LinkedIn Profile](https://www.linkedin.com/in/maryam-fatima)  
-Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-
+[LinkedIn Profile](https://www.linkedin.com/in/maryam-fatima03)  
+Email: [your-email@gmail.com](mailto:maryamfatima03@gmail.com)
