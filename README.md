@@ -15,8 +15,8 @@
 Visualize the Keylogger-Software with the following screenshots:
 
 <p align="center">
-  <img src="screenshots-keylogger/keylogger-screenshot.png" alt="Screenshot Capture" width="400"/>
-  <br/><i>Capturing screenshots.</i>
+  <img src="screenshots-keylogger/running-keylogger.png" alt="Running Keylogger" width="400"/>
+  <br/><i>Keylogger is running.</i>
 </p>
 
 <p align="center">
@@ -25,8 +25,8 @@ Visualize the Keylogger-Software with the following screenshots:
 </p>
 
 <p align="center">
-  <img src="screenshots-keylogger/running-keylogger.png" alt="Running Keylogger" width="400"/>
-  <br/><i>Keylogger is running.</i>
+  <img src="screenshots-keylogger/keylogger-screenshot.png" alt="Screenshot Capture" width="400"/>
+  <br/><i>Capturing screenshots.</i>
 </p>
 
 <p align="center">
